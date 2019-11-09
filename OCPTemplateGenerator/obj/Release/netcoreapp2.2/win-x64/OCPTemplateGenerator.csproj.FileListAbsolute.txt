@@ -1,0 +1,11 @@
+C:\Users\ADMIN\source\repos\OCPTemplateGenerator\bin\Release\netcoreapp2.2\win-x64\OCPTemplateGenerator.exe
+C:\Users\ADMIN\source\repos\OCPTemplateGenerator\bin\Release\netcoreapp2.2\win-x64\OCPTemplateGenerator.deps.json
+C:\Users\ADMIN\source\repos\OCPTemplateGenerator\bin\Release\netcoreapp2.2\win-x64\OCPTemplateGenerator.runtimeconfig.json
+C:\Users\ADMIN\source\repos\OCPTemplateGenerator\bin\Release\netcoreapp2.2\win-x64\OCPTemplateGenerator.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\OCPTemplateGenerator\bin\Release\netcoreapp2.2\win-x64\OCPTemplateGenerator.dll
+C:\Users\ADMIN\source\repos\OCPTemplateGenerator\bin\Release\netcoreapp2.2\win-x64\OCPTemplateGenerator.pdb
+C:\Users\ADMIN\source\repos\OCPTemplateGenerator\obj\Release\netcoreapp2.2\win-x64\OCPTemplateGenerator.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\OCPTemplateGenerator\obj\Release\netcoreapp2.2\win-x64\OCPTemplateGenerator.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\OCPTemplateGenerator\obj\Release\netcoreapp2.2\win-x64\OCPTemplateGenerator.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\OCPTemplateGenerator\obj\Release\netcoreapp2.2\win-x64\OCPTemplateGenerator.dll
+C:\Users\ADMIN\source\repos\OCPTemplateGenerator\obj\Release\netcoreapp2.2\win-x64\OCPTemplateGenerator.pdb

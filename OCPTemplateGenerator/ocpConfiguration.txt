@@ -1,0 +1,16 @@
+this is the ocp teplate
+data{
+project name :"projectname",
+test name : "testname"
+}
+@ this template to be updated as per the project configuration
+data1{
+project path csproj :"projectpathcsproj",
+test path csproj : "testpathcsproj"
+}
+data2{
+project path:
+project path:"projectpath",
+test proj. path : "testpath"
+
+}

@@ -1,0 +1,5 @@
+1. Pull the OCPTemplateGenerator code
+or 
+Copy Published from share/OCPTemplateGenerator
+
+2. OCPTemplateGenerator.exe E:\Citi_InfoAPI(path)
